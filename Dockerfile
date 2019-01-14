@@ -1,1 +1,1 @@
-aefhiuaweghu
+FROM ubuntu:latest
